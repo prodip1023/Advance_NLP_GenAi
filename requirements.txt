@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+textblob
+gensim
+sentence-transformers
+langchain
+langchain-community
